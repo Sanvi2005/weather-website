@@ -9,12 +9,7 @@ It allows users to search for a city and view the current weather details like t
 - Responsive UI (works on mobile and desktop)  
 
 ## 🖥️ Live Demo
-👉 [Click here to view](https://Sanvi2005.github.io/weather-website/)
-
-## 📂 Project Files
-- `index.html` → Main webpage  
-- `style.css` → Stylesheet for UI  
-- `script.js` → JavaScript for fetching weather data  
+👉 [Click here to view](https://Sanvi2005.github.io/weather-website/)  
 
 ## 👩 Author
 **Sanvi Srivastava**
